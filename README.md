@@ -6,7 +6,7 @@ types, and an API client, plus a backend that will serve them all.
 
 > **Current state:** all five **frontends are built and run with mock data — no
 > backend required**. This repo is the handoff point for building the real
-> backend + database. Frontend = Ahmed · Backend/DB = Jawher.
+> backend + database.
 
 ---
 
