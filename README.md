@@ -8,6 +8,20 @@ types, and an API client, plus a backend that will serve them all.
 > backend required**. This repo is the handoff point for building the real
 > backend + database.
 
+## Live demo
+
+All five portals are deployed on Vercel (frontend only, mock data, no backend):
+
+| Portal | Live URL |
+| ------------- | ------------------------------------------------- |
+| Organizer | https://mena-ml-organizer.vercel.app/ |
+| Travel Agency | https://mena-ml-travel-agency.vercel.app/ |
+| Sponsor | https://mena-ml-sponsor.vercel.app/ |
+| Reviewer | https://mena-ml-reviewer.vercel.app/ |
+| Participant | https://mena-ml-participant.vercel.app/ |
+
+Login is fake on every portal — type any email + any password.
+
 ---
 
 ## Table of contents
